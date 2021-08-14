@@ -6,7 +6,10 @@ Extract the file and Loginform folder
 And run the Loginform(demo).html file.
 
 **Login interface**
-![] (images/login.png)
+
+![] (images/Login.png)
 
 **Reg interface**
+
+
 ![](images/reg.png)
