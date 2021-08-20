@@ -4,3 +4,4 @@ For the development of this simple web-based project, there is use of some image
 
 
 To run this project, we recommend you to use Modern browsers such as Google Chrome, Mozilla Firefox. To run the project, first, open the project in your browser by clicking the index.html file.
+![](assets/home.png)
