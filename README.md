@@ -20,6 +20,7 @@ And run the Loginform(demo).html file.
  For the development of this simple web-based project, there is use of some images and it is developed using JavaScript to bring the final output. All the validation function is set from **JavaScript** whereas **HTML** and **CSS** are set for the layouts and other minor functions.
  
 **How to run?**
+
  To run this project, we recommend you to use Modern browsers such as Google Chrome, Mozilla Firefox. To run the project, first, open the project in your browser by clicking the index.html file.
  
 ![](images/coding-web.png)
