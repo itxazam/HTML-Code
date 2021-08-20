@@ -17,4 +17,4 @@ And run the Loginform(demo).html file.
 **Codin-quiz-mian-interface**
  
  
-![](images/web-quiz.png)
+![](images/coding-web.png)
