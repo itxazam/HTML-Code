@@ -13,3 +13,8 @@ And run the Loginform(demo).html file.
 
 
 ![](images/reg.png)
+
+**Codin-quiz-mian-interface**
+ 
+ 
+![](images/web-quiz.png)
