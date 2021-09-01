@@ -7,12 +7,12 @@ And run the Loginform(demo).html file.
 
 **Login interface**
 
-![](images/Login.png)
+![](images/Login.png
 
 **Reg interface**
 
 
-![](images/reg.png)
+![](images/reg.png
 
 **Codin-quiz-mian-interface**
 
