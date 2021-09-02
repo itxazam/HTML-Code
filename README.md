@@ -8,7 +8,7 @@
 
  First you install the Xampp or Wamp server in your PC.
  2nd step you may downlod the zip file of the project.Extract the zip file that your on choice folder.
- After that you must place the folder inside the xammp/htdocs
+ After at you must place the folder inside the xammp/htdocs
  Insdie the project you must see the file of database that is exported file name database you must create the database in-side phpmyadim and import the file which name is database .
 After complete all the process you must run the project on localhost. 
 
