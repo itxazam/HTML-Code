@@ -14,11 +14,11 @@ After complete all the process you must run the project on localhost. When proje
 
 **##Registration insterface##**
 
-![](images/rr.png)
+![](Reg-form-php-database/assets/rr.png)
 
 
 **##Login insterface##**
 
 
-![](images/ll.png)
+![](Reg-form-php-database/assets/ll.png)
 
